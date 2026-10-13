@@ -68,7 +68,7 @@ A human edit is the highest-priority wording for a run, and it is rejected when 
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Do not commit real resumes, phone numbers, private research, or confidential job descriptions. Use synthetic fixtures.
+Open source contributions are welcome. Start with [CONTRIBUTING.md](CONTRIBUTING.md), pick an item from [TO_DO.md](TO_DO.md), and follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Do not commit real resumes, phone numbers, private research, or confidential job descriptions. Use synthetic fixtures.
 
 ## License
 
